@@ -9,5 +9,7 @@ Universitat Oberta of Catalunya.
 https://www.kaggle.com/c/titanic
 # Ficheros 
 Se adjunta en la carpeta DATA los CSV utilizados para importar los datos y la extraccion final de todos los datos utilizados. Estos son los archivos titanic, test_out, train_out
+
+En la carpeta CODE se encuentra el fichero .RMD utilizado para la creación del PDF
 # Integrantes 
 Pablo Morante López
